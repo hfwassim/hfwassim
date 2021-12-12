@@ -1,0 +1,25 @@
+#jumia
+
+https://www.jumia.com.tn/pc-portables/?page=1#catalog-listing
+https://www.jumia.com.tn/pc-portables/?page=2#catalog-listing
+https://www.jumia.com.tn/pc-portables/?page=3#catalog-listing
+https://www.jumia.com.tn/informatique-ordinateurs-fixes/?page=1#catalog-listing
+https://www.jumia.com.tn/informatique-ordinateurs-fixes/?page=2#catalog-listing
+https://www.jumia.com.tn/informatique-ordinateurs-fixes/?page=3#catalog-listing
+
+
+#tunisianet
+
+https://www.tunisianet.com.tn/702-ordinateur-portable
+https://www.tunisianet.com.tn/702-ordinateur-portable?page=5
+https://www.tunisianet.com.tn/702-ordinateur-portable?page=10
+https://www.tunisianet.com.tn/702-ordinateur-portable?page=15
+https://www.tunisianet.com.tn/702-ordinateur-portable?page=17
+
+
+#Mega pc
+
+https://megapc.tn/shop/ORDINATEURS/Pc%20Portable
+https://megapc.tn/shop/ORDINATEURS/Pc%20Portable?page=2
+https://megapc.tn/shop/ORDINATEURS/PC%20GAMER
+
